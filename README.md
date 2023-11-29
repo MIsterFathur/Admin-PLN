@@ -1,4 +1,4 @@
-## Praktikum SI-MVC Pemrograman Berbasis Web Lanjutan 2021/2022
+## Praktikum SI-MVC Pemrograman Berbasis Web Lanjutan 2023/2024
 ## Buat Folder _db serta file didalamnya
 * database.sql
 ## Buat Folder app serta empat folder didalamnya
